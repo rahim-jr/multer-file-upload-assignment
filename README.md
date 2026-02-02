@@ -11,7 +11,7 @@
 2. Run the server:
 
    ```bash
-   npm start
+   node server.js
    ```
 
 3. Open `http://localhost:3000`
